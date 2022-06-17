@@ -1,0 +1,10 @@
+[
+  {
+    "package": "coca",
+    "oncran": true
+  },
+  {
+    "package": "klic",
+    "oncran": true
+  }
+]
